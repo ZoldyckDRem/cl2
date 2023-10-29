@@ -1,0 +1,13 @@
+VARS,TYPE
+PassengerId,num
+Survived,target
+Pclass,char
+Name,char
+Sex,char
+Age,num
+SibSp,num
+Parch,num
+Ticket,num
+Fare,num
+Cabin,char
+Embarked,char
